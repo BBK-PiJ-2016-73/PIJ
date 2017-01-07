@@ -1,0 +1,7 @@
+Calculator cal = new Calculator();
+println "Calling calculator add method to compute 4 + 8 = " + cal.add(4, 8);
+println "";
+println "Calling calculator subtract method to subtract 4 - 8 = " + cal.subtract(4, 8);
+println "Calling calculator divide method to divide 4.5 / 8.5 = " + cal.divide(4.5, 8.5);
+println "Calling calculator multiply 4  * 8 = " + cal.multiply(4, 8);
+
